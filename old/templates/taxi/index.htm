@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Taxi Service Template</title>
+<link href="css/bootstrap.css" rel="stylesheet">
+ <link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<style type="text/css">
+h2{
+    margin: 0;     
+    color: #666;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+.item{
+    background:#fefefe !important;
+    text-align: center;
+    width:100% !important;
+    height: 450px !important;
+}
+.item img{
+  width:100% !important;
+  height:100% !important;
+}
+
+.carousel-indicators{
+  position:absolute !important;
+  bottom:3%;
+}
+.carousel-indicators li{
+  background:#696969 !important;
+  
+}
+.carousel-indicators .active{
+  background:#06cdff !important;
+  
+}
+.carousel-caption{
+  width:45% !important;
+  height:270px  !important;
+  margin-left:-10% !important;
+	background:none !important;
+  text-align:left !important;
+ 
+  margin-bottom:13% !important;
+}
+.carousel-caption h3{
+  color:#333333 !important;
+  font-family:'OpenSans-Bold', Verdana, Geneva, sans-serif !important;
+  font-weight:bolder !important;
+  font-size:46px !important;
+  padding-bottom:10px !important;
+  margin-bottom:35px !important;
+ 
+  
+  
+  
+}
+.carousel-caption .name1{
+  color:#03519a !important;
+}
+.caption-divider{
+  background:#5d2e11 !important;
+  width:40% !important;
+  height:4px !important;
+  float:left !important;
+  margin-top:-7.2% !important;
+  
+}
+.carousel-caption p{
+  color:#111111 !important;
+  font-family:"OpenSans-Light", Arial, Helvetica, sans-serif !important;
+  font-size:14px !important;
+ margin-bottom:35px !important;
+}
+.carousel-caption button{
+  font-size:16px !important;
+   color:#FFFFFF !important;
+  background:#f7b731 !important;
+  border:none !important;
+    font-family:'OpenSans-Bold', Verdana, Geneva, sans-serif !important;
+    font-size:24px !important;
+    padding-left:25px !important;
+    padding-right:25px !important;    
+   
+  
+}
+.carousel-control{
+  padding:0 !important;
+  margin:0 !important;
+  background:none !important;
+}
+.carousel-control img{
+  margin:0 !important;
+  padding:0 !important;
+  position:absolute !important;
+  bottom:40%;
+  left:30%;
+
+}
+.glyphicon{
+  color:#ab1515 !important;
+  font-size:28px !important;
+  font-weight:lighter !important;
+ 
+}
+.carousel-indicators li{
+  background:#1c1b1b !important;
+}
+.carousel-indicators .active{
+  background:#681916 !important;
+}
+</style>
+</head>
+<body>
+      <div class="wrap">
+							<!--START OF HEADER-->
+              <div class="container">
+                   <div class="header clearfix">
+														 <div class="row">
+                             		<div class="col-md-12">
+                                			<div class="upper-head clearfix">
+                                      		<div class="contme"><strong>1800-000-8080</strong></div>
+                                          <div class="s-media">
+                                          		<img src="images/google-icon.png" border="0" class="img-responsive" />
+                                          		<img src="images/twitter-head.png" border="0" class="img-responsive" />
+                                              <img src="images/facebook-icon.png" border="0" class="img-responsive" />
+                                              <img src="images/pint-head.png" border="0" class="img-responsive" />
+                                          
+                                          </div>
+                                      </div>
+                                </div>
+                             </div>
+                             <div class="row">
+                             		 	<div class="col-md-4 col-lg-4 col-sm-4 m-logo">
+                                  	<img src="images/logo.png" border="0" class="img-responsive" />
+                                  </div>
+                                       
+                           
+                                        <div class="col-md-8 col-lg-8 col-sm-8">
+                                                  <nav class="navbar" role="navigation">
+                                                       
+                                                                    <div class="navbar-header">
+                                                                      <button type="button" class="navbar-toggle btn-info btn" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                                                                        <span class="sr-only">Toggle navigation</span>
+                                                                        <span class="glyphicon glyphicon-align-justify"></span>
+                                                                      </button>
+                                                                      
+                                                                    </div>
+                                                                    <!-- Collect the nav links, forms, and other content for toggling -->
+                                                                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                                                      <ul class="nav navbar-nav">
+                                                                                 <li class="active"><a href="index.htm">Home</a></li>
+                                                                                 <li><a href="services.htm">Services</a></li>
+                                                                                 <li><a href="policies.htm">Policies</a></li>
+                                                                                 <li><a href="contact.htm">Contact</a></li>
+                                                                                
+                                                                      </ul>
+                                                                     
+                                                                    </div><!-- /.navbar-collapse -->
+                                                    </nav>                                   
+                                          
+                                        </div>
+                     		 					                                      
+                                  
+                             </div>
+                             
+                       </div>   
+                              	
+               </div>
+    		        <!--END OF HEADER-->
+                <!--START OF CONTENT-->
+                 <div class="container">
+                 		<div class="content-home">
+                    		<div class="row">
+                        
+                        
+                        
+                        
+                            <div class="col-md-12">
+                                	<div class="slider-portion">
+                                     <div id="myCarousel" class="carousel slide" data-interval="9000" data-ride="carousel">
+                                        <!-- Carousel indicators -->
+                                         <!-- <ol class="carousel-indicators">
+                                              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                              <li data-target="#myCarousel" data-slide-to="1"></li>
+                                              <li data-target="#myCarousel" data-slide-to="2"></li>
+                                          </ol> --> 
+                                         <!-- Carousel items -->                                  
+                                          <div class="carousel-inner">
+                                              <div class="active item">
+                                              <img src="images/carousel-item1.png" border="0" />
+                                                  
+                                                  <div class="carousel-caption">
+                                                  			<div class="row">
+                                                        			<div class="col-md-12">
+                                                              		<h3>Taxi Service</h3>
+                                                                 
+                                                              </div>
+                                                              
+                                                              <div class="col-md-12">
+                                                              		<p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis Sed diam nonummy nibh euismod tincidunt ut laoreet olore agna uam erat volu tpat. Ut wisi enim ad minim veniam, quisSed am nummy nibh euismod tincidunt ut laoreet dolore magna liquam erat volu tpat. Ut wisi enim ad minim veniam, quis Sed diam mmy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis</p>
+                                                              </div>
+                                                              <div class="col-md-12">
+                                                              		<button type="button" class="btn btn-danger">Read more</button>
+                                                              </div>
+                                                              
+                                                        </div>
+                                                      		
+                                                     
+	
+                                                  </div>
+                                              </div>
+                                              <div class="item">
+                                              <img src="images/carousel-item1.png" border="0" />
+                                                  
+                                                  <div class="carousel-caption">
+                                                  			<div class="row">
+                                                        			<div class="col-md-12">
+                                                              		<h3>Taxi Service</h3>
+                                                                 
+                                                              </div>
+                                                              
+                                                              <div class="col-md-12">
+                                                              		<p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis Sed diam nonummy nibh euismod tincidunt ut laoreet olore agna uam erat volu tpat. Ut wisi enim ad minim veniam, quisSed am nummy nibh euismod tincidunt ut laoreet dolore magna liquam erat volu tpat. Ut wisi enim ad minim veniam, quis Sed diam mmy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis</p>
+                                                              </div>
+                                                              <div class="col-md-12">
+                                                              		<button type="button" class="btn btn-danger">Read more</button>
+                                                              </div>
+                                                              
+                                                        </div>
+                                                      		
+                                                     
+	
+                                                  </div>
+                                              </div>
+                                              <div class="item">
+                                              <img src="images/carousel-item1.png" border="0" />
+                                                  
+                                                  <div class="carousel-caption">
+                                                  			<div class="row">
+                                                        			<div class="col-md-12">
+                                                              		<h3>Taxi Service</h3>
+                                                                 
+                                                              </div>
+                                                              
+                                                              <div class="col-md-12">
+                                                              		<p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis Sed diam nonummy nibh euismod tincidunt ut laoreet olore agna uam erat volu tpat. Ut wisi enim ad minim veniam, quisSed am nummy nibh euismod tincidunt ut laoreet dolore magna liquam erat volu tpat. Ut wisi enim ad minim veniam, quis Sed diam mmy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis</p>
+                                                              </div>
+                                                              <div class="col-md-12">
+                                                              		<button type="button" class="btn btn-danger">Read more</button>
+                                                              </div>
+                                                              
+                                                        </div>
+                                                      		
+                                                     
+	
+                                                  </div>
+                                              </div>
+                                          </div>
+
+                                                                
+                                                              <!-- <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+                                                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                                                </a>
+                                                                <a class="carousel-control right" href="#myCarousel" data-slide="next">
+                                                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                                                </a> -->                                       
+                                                                <!-- Carousel nav -->                                        
+                                          <!-- Carousel nav -->
+                                        
+                                        
+                                      </div>                                     		
+																	</div>                                     
+                            </div>
+
+														<div class="col-md-12">
+																	
+                                  		<div class="white-potion">
+                                      			
+                                      			<div class="row" style="margin-top:5%;">
+                                            		<div class="col-md-12">
+                                                		<div class="title-container">
+                                                				<h3>Our Taxi Services</h3>
+                                                    </div>
+                                                </div>
+                                            
+                                            </div>                                               
+
+
+                                            <div class="row mservice" style="margin-top:5%;">
+                                            			<div class="col-md-4 col-lg-4 col-sm-4">
+                                                  		
+                                                      		<div class="row">
+                                                          			<div class="col-md-12"><img src="images/service-item1.png" border="0" class="img-responsive" /></div>
+                                                                
+                                                                <div class="col-md-12"><p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis ed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volu pat. Ut wisi enim ad minim veniam, quisSed iam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat volu tpat. Ut isi enim ad minim veniam, quis Sed diam mmy nibh euismod dunt ut laoreet dolore magna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis  dolore magna iquam erat volu tpat. Ut wisi enim ad minim ,enim ad minim niam quis.</p></div>
+                                                                <div class="col-md-12"><button type="button" class="btn btn-danger btn-block">Read More</button></div>
+                                                          </div>
+                                                     
+                                                  </div>
+                                            			<div class="col-md-4 col-lg-4 col-sm-4">
+                                                  		
+                                                      		<div class="row">
+                                                          			<div class="col-md-12"><img src="images/service-item2.png" border="0" class="img-responsive" /></div>
+                                                                
+                                                                <div class="col-md-12"><p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis ed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volu pat. Ut wisi enim ad minim veniam, quisSed iam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat volu tpat. Ut isi enim ad minim veniam, quis Sed diam mmy nibh euismod dunt ut laoreet dolore magna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis  dolore magna iquam erat volu tpat. Ut wisi enim ad minim ,enim ad minim niam quis.</p></div>
+                                                                <div class="col-md-12"><button type="button" class="btn btn-danger  btn-block">Read More</button></div>
+                                                          </div>
+                                                      
+                                                  </div>
+                                                  <div class="col-md-4 col-lg-4 col-sm-4">
+                                                  		
+                                                      		<div class="row">
+                                                          			<div class="col-md-12"><img src="images/service-item3.png" border="0" class="img-responsive" /></div>
+                                                               
+                                                                <div class="col-md-12"><p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis ed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volu pat. Ut wisi enim ad minim veniam, quisSed iam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat volu tpat. Ut isi enim ad minim veniam, quis Sed diam mmy nibh euismod dunt ut laoreet dolore magna aliquam erat volu tpat. Ut wisi enim ad minim veniam, quis  dolore magna iquam erat volu tpat. Ut wisi enim ad minim ,enim ad minim niam quis.</p></div>
+                                                                <div class="col-md-12"><button type="button" class="btn btn-danger btn-block">Read More</button></div>
+                                                          </div>
+                                                     
+                                                  </div>
+                                                                                                    
+                                      			</div>
+                                          	<div class="row" style="margin-top:8%;">
+                                            		<div class="col-md-12">
+                                                  <div class="title-container">
+                                                    <h3>HEADING TITLE HERE</h3>
+                                                  </div>
+                                                  
+                                                </div>
+                                            </div>
+                                      			<div class="row small-items" style="margin-top:3%;">
+
+                                            		<div class="col-md-4 col-lg-4 col-sm-4">
+                                                      		<div class="row">
+                                                          			<div class="col-md-12"><img src="images/smaill-item-img.png" border="0" class="img-responsive" /></div>
+                                                                <div class="col-md-12"><h4>Taxi Service</h4></div> 
+                                                                <div class="col-md-12"><p>Sed diam nonummy nibh euismod tincidunt ut laoreet nonummy nibh euismod incidunminim veniam, quis Sed diam mmy nibh </p></div>
+                                                                <div class="col-md-12"><button type="button" class="btn btn-danger">Read More</button></div>
+                                                          </div>                                                
+                                                
+                                                </div>
+                                                <div class="col-md-4 col-lg-4 col-sm-4">
+                                                
+                                                      		<div class="row">
+                                                          			<div class="col-md-12"><img src="images/smaill-item-img.png" border="0" class="img-responsive" /></div>
+                                                                <div class="col-md-12"><h4>Taxi Service</h4></div> 
+                                                                <div class="col-md-12"><p>Sed diam nonummy nibh euismod tincidunt ut laoreet nonummy nibh euismod incidunminim veniam, quis Sed diam mmy nibh </p></div>
+                                                                <div class="col-md-12"><button type="button" class="btn btn-danger">Read More</button></div>
+                                                          </div>                                                   
+                                                </div>
+                                                <div class="col-md-4 col-lg-4 col-sm-4">
+                                                      		<div class="row">
+                                                          			<div class="col-md-12"><img src="images/smaill-item-img.png" border="0" class="img-responsive" /></div>
+                                                                <div class="col-md-12"><h4>Taxi Service</h4></div> 
+                                                                <div class="col-md-12"><p>Sed diam nonummy nibh euismod tincidunt ut laoreet nonummy nibh euismod incidunminim veniam, quis Sed diam mmy nibh </p></div>
+                                                                <div class="col-md-12"><button type="button" class="btn btn-danger">Read More</button></div>
+                                                          </div>                                                   
+                                                
+                                                </div>
+                                                
+
+                                               
+                                            </div> 
+                                            
+                                                                                    
+                                      </div>
+                                  
+                            </div>
+             
+                            
+                            
+                         </div>    	
+                    </div>
+                 </div>
+                <!--END OF CONTENT-->
+                <!--START OF FOOTER-->
+                 <div class="container">
+                 	  <div class="footer">
+                          <div class="row">
+
+                              <div class="col-md-12 col-lg-12 col-sm-12">
+                                  <div class="copyright"> 
+                                            Copyright © 2014 Broad Ripple Tickets. All rights reserved.<br />
+                                            <a href="#">Back to top</a>
+                                   </div>                       
+                              </div>
+                          		                               
+                                                   
+                          </div>
+                        </div> 	
+                 </div>
+                 <!--END OFFOOTER-->
+     </div>
+      
+</body>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-1-11-1.min.js"></script>
+    <script src="js/bootstrap-transition.js"></script>
+    <script src="js/bootstrap-alert.js"></script>
+    <script src="js/bootstrap-modal.js"></script>
+    <script src="js/bootstrap-dropdown.js"></script>
+    <script src="js/bootstrap-scrollspy.js"></script>
+    <script src="js/bootstrap-tab.js"></script>
+    <script src="js/bootstrap-tooltip.js"></script>
+    <script src="js/bootstrap-popover.js"></script>
+    <script src="js/bootstrap-button.js"></script>
+    <script src="js/bootstrap-collapse.js"></script>
+    <script src="js/bootstrap-carousel.js"></script>
+    <script src="js/bootstrap-typeahead.js"></script> 
+    <script type="text/javascript">
+				(function($){
+			$('#thumbcarousel').carousel(0);
+			var $thumbItems = $('#thumbcarousel .item');
+				$('#carousel').on('slide.bs.carousel', function (event) {
+				 var $slide = $(event.relatedTarget);
+				 var thumbIndex = $slide.data('thumb');
+				 var curThumbIndex = $thumbItems.index($thumbItems.filter('.active').get(0));
+				 
+				if (curThumbIndex>thumbIndex) {
+					$('#thumbcarousel').one('slid.bs.carousel', function (event) {
+						$('#thumbcarousel').carousel(thumbIndex);
+					});
+					if (curThumbIndex === ($thumbItems.length-1)) {
+						$('#thumbcarousel').carousel('next');
+					} else {
+						$('#thumbcarousel').carousel(numThumbItems-1);
+					}
+				} else {
+					$('#thumbcarousel').carousel(thumbIndex);
+				}
+			});
+		})(jQuery);
+
+		</script>   
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
