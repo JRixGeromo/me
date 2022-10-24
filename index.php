@@ -461,55 +461,55 @@
             </div>
             <div class="row portfolio">
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/14.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/14.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>S4 Sun Care</span></h4>
+                            <a href="https://s4suncare.com/" target="blank"><h4><span>S4 Sun Care</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/13.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/13.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>Block Chain SG</span></h4>
+                            <a href="https://blockchainsg.com/" target="blank"><h4><span>Block Chain SG</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/12.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/12.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>Bartlett Roofs</span></h4>
+                            <a href="https://www.bartlettroofs.com/" target="blank"><h4><span>Bartlett Roofs</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/11.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/11.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>Wine Depot AU</span></h4>
+                            <a href="http://winedepot.com/" target="blank"><h4><span>Wine Depot AU</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/10.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/10.png"><i class="fas fa-expand-arrows-alt"></i></a>
@@ -521,74 +521,74 @@
                 </div>
                 <!-- // Single Portfolio -->
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/9.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/9.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>Zotter Chocolates</span></h4>
+                            <a href="https://www.zotterusa.com/" target="blank"><h4><span>Zotter Chocolates</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/8.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/8.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>Cross Border Pickups</span></h4>
+                            <a href="https://www.crossborderpickups.ca" target="blank"><h4><span>Cross Border Pickups</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/7.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/7.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>Giga Book</span></h4>
+                            <a href="http://gigabook.com" target="blank"><h4><span>Giga Book</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
 
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/6.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/6.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>Phyrem</span></h4>
+                            <a href="https://phyrem.com" target="blank"><h4><span>Phyrem</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/5.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/5.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>Jet Webinar</span></h4>
+                            <a href="https://jetwebinar.com/" target="blank"><h4><span>Jet Webinar</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/4.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/4.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>Exact Tax Indy</span></h4>
+                            <a href="http://exacttaxindy.com" target="blank"><h4><span>Exact Tax Indy</span></h4></a>
                         </div>
                     </div>
                 </div>
@@ -596,46 +596,46 @@
 
 
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/3.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/3.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>ETA Tickets</span></h4>
+                            <a href="http://etatickets.com" target="blank"><h4><span>ETA Tickets</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
 
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/2.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/2.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>Nate Trotter</span></h4>
+                            <a href="http://natetrotter.com" target="blank"><h4><span>Nate Trotter</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
 
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix web">
+                <div class="col-lg-6 col-md-6 mix web">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/1.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/1.png"><i class="fas fa-expand-arrows-alt"></i></a>
                         </div>
                         <div class="portfolio-hover">
-                            <h4><span>TV Startup</span></h4>
+                            <a href="http://tvstartup.com" target="blank"><h4><span>TV Startup</span></h4></a>
                         </div>
                     </div>
                 </div>
                 <!-- // Single Portfolio -->
 
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix template">
+                <div class="col-lg-6 col-md-6 mix template">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/t4.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/t4.png"><i class="fas fa-expand-arrows-alt"></i></a>
@@ -647,7 +647,7 @@
                 </div>
                 <!-- // Single Portfolio -->
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix template">
+                <div class="col-lg-6 col-md-6 mix template">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/t3.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/t3.png"><i class="fas fa-expand-arrows-alt"></i></a>
@@ -659,7 +659,7 @@
                 </div>
                 <!-- // Single Portfolio -->
                                                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix template">
+                <div class="col-lg-6 col-md-6 mix template">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/t2.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/t2.png"><i class="fas fa-expand-arrows-alt"></i></a>
@@ -671,7 +671,7 @@
                 </div>
                 <!-- // Single Portfolio -->
                 <!-- Single Portfolio -->
-                <div class="col-lg-4 col-md-6 mix template">
+                <div class="col-lg-6 col-md-6 mix template">
                     <div class="single-portfolio" style="background-image: url(assets/images/portfolio/t1.png)">
                         <div class="portfolio-icon text-center">
                             <a data-lightbox='lightbox' href="assets/images/portfolio/t1.png"><i class="fas fa-expand-arrows-alt"></i></a>

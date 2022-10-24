@@ -726,7 +726,7 @@ button:focus {
 }
 
 .single-portfolio {
-    height: 240px;
+    height: 340px;
     margin-bottom: 15px;
     background-position: center;
     background-size: cover;
@@ -735,7 +735,12 @@ button:focus {
     position: relative;
     z-index: 1;
     overflow: hidden;
-    margin:  30px;
+    margin:  50px;
+    border-bottom: 2px solid #ffc900;
+    box-shadow: 0 0 30px #ddd;
+/*    border-style: solid;
+    border-width: thin;
+    border-color: #707070;*/
 }
 
 .single-portfolio:after {
@@ -1395,7 +1400,7 @@ p.comment-date {
 ::::::::::::::::::::::::::::::::::::*/
 
 .single-team {
-    border-bottom: 10px solid #ffc900;
+    border-bottom: 2px solid #ffc900;
     box-shadow: 0 0 30px #ddd;
     margin-bottom: 30px;
 }
