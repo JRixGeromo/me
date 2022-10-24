@@ -96,6 +96,11 @@
                 <div class="slider-bg" style="background-image: url(assets/images/hero-area/img-2.jpg)"></div>
                 <!-- // Single Background -->
             </div>
+            <div class="single-slider">
+                <!-- Single Background -->
+                <div class="slider-bg" style="background-image: url(assets/images/hero-area/img-3.jpg)"></div>
+                <!-- // Single Background -->
+            </div>
         </div>
         <!-- // Hero Area Slider -->
     </div>
