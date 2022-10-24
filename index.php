@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta charset="UTF-8">
-    <title>Safs - HTML</title>
+    <title>JIC - JIntelCare</title>
 
     <!-- ====== Google Fonts ====== -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet">
@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
 </head>
 
@@ -42,7 +43,7 @@
                 <a class="navbar-brand logo" href="index.php">
                     <!-- <img src="assets/images/logo.png" alt="logo"> -->
                     <div class="hero-content h-50">
-                        <h2 class="text-uppercase" style="color: #757a75">JIC</h2>
+                        <h2 class="text-uppercase" style="color: #707070; font-size: 150px; margin-top: -50px;">JIC</h2>
                     </div>
                 </a>
                 <!-- // Logo -->
@@ -246,7 +247,7 @@
                         <!-- //Skill Area -->
 
                          <p>
-                            <a href="https://www.onlinejobs.ph/jobseekers/info/242458" target="_blank" style="color: #ffc900">Skill sets details ...</a>
+                            <a href="https://www.onlinejobs.ph/jobseekers/info/242458"  class="button smooth-scroll" target="_blank">Detailed skill sets...</a>
                         </p>
 
                     </div>
@@ -276,7 +277,7 @@
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="single-fun-fact">
                         <h2><span class="counter-value" data-count="10">0</span>+</h2>
-                        <p>Happy Employers</p>
+                        <p>Happy Clients</p>
                     </div>
                 </div>
                 <!-- // Single Fact Counter -->
